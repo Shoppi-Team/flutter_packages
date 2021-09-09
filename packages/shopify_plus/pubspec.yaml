@@ -1,0 +1,11 @@
+name: shopify_plus
+description: A new Flutter package which provides help in creating a mobile app of a shopify store.
+version: 0.0.0
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  graphql: ^5.0.0
+  shared_preferences: ^2.0.6
+  intl: ^0.17.0
